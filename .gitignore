@@ -33,6 +33,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -100,3 +101,5 @@ InitTestScene*.unity*
 
 # Ignorar completamente los assets del 3D GameKit y otros 
 /Assets/imports/
+
+.vscode/settings.json
