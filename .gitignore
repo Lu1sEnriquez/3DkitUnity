@@ -98,5 +98,5 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-# Ignorar completamente los assets del 3D GameKit
-/Assets/3DGamekit/
+# Ignorar completamente los assets del 3D GameKit y otros 
+/Assets/imports/
