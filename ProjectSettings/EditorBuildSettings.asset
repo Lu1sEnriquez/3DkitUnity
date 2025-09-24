@@ -33,19 +33,19 @@ EditorBuildSettings:
     path: Assets/Scenes/escenario.unity
     guid: 65ef8cd4316329b4e9b1cce701756018
   - enabled: 1
-    path: Assets/Pruebas.unity
+    path: Assets/Scenes/Pruebas.unity
     guid: f48310765dea2fe4489e1fcd53c5c042
   - enabled: 1
     path: Assets/SegundaEscena.unity
     guid: 46a8ca7d2d7ce2b45bcafc1ebe02a902
   - enabled: 1
-    path: Assets/Escena_1.unity
+    path: Assets/Scenes/Escena_1.unity
     guid: a240e75fd39b8ad4e9617ff9b944f45c
   - enabled: 1
-    path: Assets/Escena_2.unity
+    path: Assets/Scenes/Escena_2.unity
     guid: f43c3af60af3209498b1e99cd25f2205
   - enabled: 1
-    path: Assets/Escena_3.unity
+    path: Assets/Scenes/Escena_3.unity
     guid: 58fb112ea8fbfb04a810ff0486e7cfbf
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
