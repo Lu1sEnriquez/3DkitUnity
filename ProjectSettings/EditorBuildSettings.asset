@@ -20,13 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/imports/3DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Prueba Escenario.unity
     guid: b89e46d6ec39acf449db7bf55dd83c6f
-  - enabled: 1
+  - enabled: 0
     path: Assets/escenario.unity
     guid: 3535ff8ee5fbb9e429c5e33df829d0d9
-  - enabled: 1
+  - enabled: 0
     path: Assets/esenario.unity
     guid: a8243b82bc3db4e4da02ffea4dfc2624
   - enabled: 1
@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pruebas.unity
     guid: f48310765dea2fe4489e1fcd53c5c042
-  - enabled: 1
+  - enabled: 0
     path: Assets/SegundaEscena.unity
     guid: 46a8ca7d2d7ce2b45bcafc1ebe02a902
   - enabled: 1
