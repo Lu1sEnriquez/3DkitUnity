@@ -99,12 +99,15 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-# Ignore baked lighting data (too large, auto-generated)
-# LightingData.asset files and lightmaps should never be committed
+# Ignore baked lighting data and their .meta files
 /[Aa]ssets/**/LightingData.asset
+/[Aa]ssets/**/LightingData.asset.meta
 /[Aa]ssets/**/Lightmap-*.exr
+/[Aa]ssets/**/Lightmap-*.exr.meta
 /[Aa]ssets/**/ReflectionProbe-*.exr
+/[Aa]ssets/**/ReflectionProbe-*.exr.meta
 /[Aa]ssets/**/LightmapSnapshot.asset
+/[Aa]ssets/**/LightmapSnapshot.asset.meta
 
 # Ignorar completamente los assets del 3D GameKit y otros 
 /Assets/imports/
